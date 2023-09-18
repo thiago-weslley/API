@@ -1,0 +1,12 @@
+{
+  "name": "api-note-web",
+  "version": "1.0.0",
+  "description": "API para o projeto note-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago Weslley",
+  "license": "ISC"
+}
